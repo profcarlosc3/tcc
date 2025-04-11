@@ -1,0 +1,17 @@
+INTRODUÇÃO
+
+A introdução abre o trabalho propriamente dito. Tem a finalidade de apresentar os motivos que levaram o autor a realizar a pesquisa, o problema abordado, os objetivos e a justificativa. O objetivo principal da introdução é situar o leitor no contexto da pesquisa e produto desenvolvidos. O leitor deverá perceber claramente o que foi analisado, como e por que, as limitações encontradas, o alcance da investigação e suas bases teóricas gerais. Ela tem, acima de tudo, um caráter didático de apresentar o que foi investigado, levando-se em conta o leitor a que se destina e a finalidade do trabalho.
+A introdução deve estabelecer de forma sucinta e clara as relações, vínculos entre capítulos, demonstrando a unidade e coerência da dissertação como um todo. Inclui as relações do trabalho com tema abordado, com embasamento teórico, citações bibliográficas. Entretanto, não deve sobrepor ou substituir as revisões bibliográficas inerentes ao artigo e ao produto.
+Assim, na introdução contextualize o tema, delimite o assunto, apresente um rápido histórico do problema e das soluções porventura já apresentadas, com breve revisão crítica das investigações anteriores; faça referência às fontes de material, aos métodos seguidos, às teorias ou aos conceitos que embasam o desenvolvimento e a argumentação, às eventuais faltas de informação, ao instrumental utilizado.
+A introdução deverá conter, ainda:
+a) Justificativa e relevância de forma textualizada, ou seja, sem numeração progressiva;
+b) Definição do problema;
+c) Objetivo geral e objetivos específicos.
+	A entrega da dissertação em formato tradicional deverá ter a extensão de 60 a 120 páginas, incluindo imagens, textos, códigos e demais descrições do produto desenvolvido.
+
+
+MODELO DE CITAÇÃO DIRETA LONGA
+Embora a expansão da oferta de educação básica continue sob a responsabilidade da escola, na modalidade presencial, as políticas públicas estimulam, cada vez mais, a utilização das novas tecnologias de informação e comunicação tendo em vista implementar uma nova qualidade à aprendizagem, aproximando-a dos novos padrões de comportamento social e de práticas laborais da sociedade informatizada. O objetivo da nova pedagogia é formar subjetividades flexíveis que se relacionem, produzam e consumam em uma sociedade cuja base técnica, a mover o mercado, é a microeletrônica (KUENZER, 2016, p.4)
+
+MODELO DE CITAÇÃO INDIRETA
+Atividades como estas podem desmistificar concepções errôneas acerca de possíveis impossibilidades relacionadas à utilização da robótica e programação como ferramentas ativas na educação. Na pesquisa de Pancieri et al (2021), avaliando a sala de aula invertida no contexto do ensino remoto de robótica para formação de professores, pode-se observar a promoção de atividades de reflexão e reorientação de estratégias de inovação para as práticas educativas no preparo de professores na mediação de um ensino e aprendizagem criativa, a partir dos conceitos do pensamento computacional e da robótica educativa.
